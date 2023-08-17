@@ -1,0 +1,15 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: lightgray;
+    padding: 10px 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
