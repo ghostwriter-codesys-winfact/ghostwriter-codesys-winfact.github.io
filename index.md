@@ -13,7 +13,7 @@ Hier kannst du deine Dienstleistungen beschreiben.
 
 ## Bilder
 
-![Bild 1](/pfad/zum/bild1.jpg)
+![Bild 1](/assets/1.png)
 ![Bild 2](/pfad/zum/bild2.jpg)
 ![Bild 3](/pfad/zum/bild3.jpg)
 
