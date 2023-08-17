@@ -1,1 +1,1 @@
-Ghostwriter für Automatisierungstechnik, Regelungstechnik, Steuerungstechnik
+## Ghostwriter für Automatisierungstechnik, Regelungstechnik, Steuerungstechnik
